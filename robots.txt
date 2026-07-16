@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xuxuan0817-collab.github.io/sitemap.xml
